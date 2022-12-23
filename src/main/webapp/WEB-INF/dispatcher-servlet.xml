@@ -37,9 +37,9 @@
         <property name="driverClassName"
             value="com.mysql.jdbc.Driver" />
         <property name="url"
-            value="jdbc:mysql://localhost:3306/demo" />
+            value="jdbc:mysql://localhost:3306/springmvctest" />
         <property name="username" value="root" />
-        <property name="password" value="root" />
+        <property name="password" value="W@nn150151" />
     </bean>
     
     <!-- hibernate config-->
